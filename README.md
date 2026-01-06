@@ -33,6 +33,7 @@
 ## 项目结构
 
 
+```text
 py/
 ├── main.py              # CLI 核心逻辑
 ├── server.py            # Web 服务端 (Flask)
