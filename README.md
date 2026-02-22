@@ -1,8 +1,3 @@
-diff --git a/README.md b/README.md
-index 083c6995ccedaae267ea80387f0c00f555b99092..86a47deec353f459a9243958d184dd41dcbf17ff 100644
---- a/README.md
-+++ b/README.md
-@@ -1,74 +1,48 @@
 -# 🚀 gpt-auto-register - Seamlessly Automate Your ChatGPT Account Setup
 +# gpt-auto-register
  
